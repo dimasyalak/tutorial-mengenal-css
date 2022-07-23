@@ -1,2 +1,2 @@
-# tutorial-mengenal-css
+# Tutorial-mengenal-css
 belajar css
